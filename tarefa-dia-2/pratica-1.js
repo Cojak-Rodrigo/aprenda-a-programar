@@ -8,3 +8,6 @@ let idade
 idade = 36
 let lugar
 lugar = "América do Norte"
+console.log(nome,email,profissão,idade,lugar)
+ 
+
