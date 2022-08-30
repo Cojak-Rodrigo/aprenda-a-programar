@@ -1,8 +1,11 @@
-/* Contatdor de 1 a 9 */
+/* Contatdor de 1 a n */
 
-let contador = 1
+let i = 1
+let n = 200
 
-while ( contador <= 9) {
-    console. log ( contador)
-    contador = contador + 1    
+
+while ( i <= n) {
+    console. log ( i )
+    i++
 }
+
