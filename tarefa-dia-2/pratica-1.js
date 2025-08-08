@@ -5,7 +5,7 @@ email = "Leonardo"
 let profissão
 profissão = "Eng. Eletriscista"
 let idade
-idade = 38
+idade = 36
 let lugar
 lugar = "América do Norte"
 let ola
