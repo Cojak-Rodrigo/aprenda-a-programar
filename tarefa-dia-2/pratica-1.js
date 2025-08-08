@@ -1,7 +1,7 @@
 let nome
-nome = "Roberta casa"
+nome = "Casa"
 let email
-email = "Roberta@gmail.com"
+email = "Casa@gmail.com"
 let profissão
 profissão = "Eng. Eletriscista"
 let idade
